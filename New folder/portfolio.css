@@ -1,0 +1,57 @@
+/*###########Defaults###############*/
+#home, 
+#about,
+#skills,
+#professions {
+    display:block;
+}
+#about,
+#skills,
+#professions{
+    margin-top:20px;
+}
+#home{
+    background-color:#E4E4E4;
+}
+
+#about{
+    background-color:black;
+    color:white;
+}
+/*########################### Home #######################*/
+.fa-w{
+    color:red;
+    font-size:2rem;
+    font-weight: 300;
+}
+.homeCard{
+    margin:auto;
+    display:block;
+    padding:20px;
+}
+
+h1.jumbo{
+    padding:50px;
+    text-align:center;
+    margin: 20px;
+}
+.card-body{
+    text-align:center;
+}
+
+.home-p{
+    font-size:150%;
+    text-align: center;
+    padding:10px;
+}
+
+/*######################### About ##########################*/
+
+.h2-jumbo{
+    text-align:center;
+    padding:15px;
+}
+.h3-col{
+    text-align:center;
+    color:aqua;
+}
